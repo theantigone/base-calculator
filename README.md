@@ -8,7 +8,7 @@ Program that can convert a value into octal, hexadecimal, and decimal numbers. I
 ## Installation & Usage
 1. Clone the repository:
 ```bash
-git clone [https://github.com/theantigone/base-calculator.git](https://github.com/theantigone/base-calculator.git)
+git clone https://github.com/theantigone/base-calculator.git
 cd base-calculator
 ```
 
