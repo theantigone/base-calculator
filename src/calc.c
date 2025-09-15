@@ -6,6 +6,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "calc.h"
+#include <limits.h>
 
 bin_str binary_str;
 
